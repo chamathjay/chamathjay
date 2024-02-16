@@ -9,7 +9,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--->
-
 - 🌱 I’m currently learning Java & Quantum Computing
 - ⚡ Fun fact: JavaScript is not related to Java. What?
+-->
+
